@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200165495190",
+    "project_id": "lista-c0f42",
+    "storage_bucket": "lista-c0f42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200165495190:android:06ce54915a1f9485ef0db7",
+        "android_client_info": {
+          "package_name": "com.example.lista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JxaHvgf0fzAfVIxmfaHgzsLBfFx8-0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
